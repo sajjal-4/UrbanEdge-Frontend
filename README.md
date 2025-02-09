@@ -47,6 +47,9 @@ UrbanEdge is a fully functional MERN Stack based e-commerce web application show
 *   Enhance the design and responsiveness for a better user experience.
 *   Add additional features such as product reviews and wishlists.
 
+**Video:**
+https://github.com/user-attachments/assets/e37108f8-e280-4e81-b173-947645b02d8e
+
 **License:**
 
 This project is licensed under the [Specify License - e.g., MIT License, Creative Commons, etc. If unsure, use MIT].
